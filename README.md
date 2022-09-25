@@ -5,4 +5,4 @@ Olá, o respositório em questão tem o intuito de mostrar que recentemente foqu
 Veremos nos 3 notebook's que terão no repositório:  
 -> Funções Basicas de Spark;  
 -> Window Functions;  
--> Spark SQL;  
+-> Union, joins when and otherwise;  
